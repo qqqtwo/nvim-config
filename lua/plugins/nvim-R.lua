@@ -16,6 +16,7 @@ return {
         vim.g.R_clear_line = 1  -- Smart backspace in R console
         vim.g.R_close_term = 1  -- Close terminal when R quits
         vim.g.R_source_args = "print.eval=TRUE"  -- Show output when sourcing
+            
 
         -- Appearance
         vim.g.R_hi_fun = 1  -- Highlight R functions
